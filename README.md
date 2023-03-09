@@ -1,5 +1,4 @@
 # Bidet
-The cleanest machine learning library
 
 
 <p align="center">
@@ -13,3 +12,12 @@ The cleanest machine learning library
         <img alt="GitHub release" src="https://img.shields.io/github/release/poopingface/bidet.svg">
     </a>
 </p>
+
+The cleanest machine learning library.
+
+## Installation
+
+```bash
+pip instal bidet
+```
+
