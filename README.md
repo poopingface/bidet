@@ -1,4 +1,4 @@
-# Bidet
+# :toilet: Bidet
 
 
 <p align="center">
