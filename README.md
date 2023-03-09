@@ -13,7 +13,7 @@
     </a>
 </p>
 
-The cleanest machine learning library.
+*Coming soon, the **cleanest** machine learning library.*
 
 ## Installation
 
