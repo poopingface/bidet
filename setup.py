@@ -15,6 +15,7 @@ setup(
     name='bidet',
     version=get_version(),
     description='The cleanest machine learning library',
+    long_description='The cleanest machine learning library',
     url='http://github.com/poopingface/bidet',
     author='Pooping Face',
     author_email='poopingface.co@gmail.com',
