@@ -18,6 +18,6 @@ The cleanest machine learning library.
 ## Installation
 
 ```bash
-pip instal bidet
+pip install bidet
 ```
 
